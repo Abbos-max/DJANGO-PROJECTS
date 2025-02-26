@@ -1,0 +1,9 @@
+secret_config.py
+db.sqlite3
+.env
+__pycache__/
+media/
+logs/
+.env
+venv/
+__pycache__/
